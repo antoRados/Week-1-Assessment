@@ -1,0 +1,25 @@
+Part 1 - Personas - 
+
+1) Michael - Prefers quality eating options, open to experiencing new restaurants frequently, works from home, late 20s early 30s.
+2) Cindy   - Prefers options for food type, does not order food frequently, enjoys restaurant suggestions from app, mid 20s.
+3) Jeff    - Prefers speedy food options, enjoys the classic pizza or sandwich restaurant, works from office or on the go, late 30s.
+
+       - App name -
+
+lunch-a-million (services multiple personas, with varying interest in food.)
+
+
+Part 2 - Work Breakdown -
+
+1)  Create order/ delivery account, order processing for restaurant cart to add food to, location services to find restaurants close     to you, billing service to process payments, search feature to filter types of food or restaurants you wish to order from, 	delivery tracking,
+
+2)  As a restaurant, we want to see reviews, so that we can grow our business and assure quality products/ delivery.
+	As a restaurant, we want to be able to track deliveries, so that we can ensure timely deliveries.
+	As a customer, I want to be able to review my food/ restaurant, so that other people know the quality.
+	As a customer, I want to be able to order food from restaurants close to me, so that I can get food quickly.
+	As a customer, I want to be able to pay for my food in app, so that I don't have to worry about payment later.
+	As a customer, I want to be able to filter food type, so that I can find restaurants for what I'm in the mood for.
+	As a customer, I want to be able to track my delivery, so that I know when to expect the delivery.
+
+3)	https://trello.com/b/lV1yPPWW/week-1-assessment
+
